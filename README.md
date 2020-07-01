@@ -3,10 +3,7 @@
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
 
 * E
-* TensorFlow Hub
-* TensorFlow Serving
-* TensorFlow Lite
-* TensorFlow.js
+* Tensos
 * Tidying up the API
 * The conversion tool
 * Alternative variable scoping
